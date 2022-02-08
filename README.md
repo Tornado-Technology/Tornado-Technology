@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2 align="center">✨ Welcome, I do different things ✨</h2>
 
-<!--
-**Tornado-Technology/Tornado-Technology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+You may know me from my [YouTube](https://www.youtube.com/channel/UCyycIj2oeDsGdrOhMpDI5VA) or the games I make. But I also create libraries and other open source stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I know and work with: C#, NodeJS, GameMaker Studio 2
+
+You can contact me on the [Juju server](https://discord.gg/8krYCqr) or [Evoleo](https://discord.gg/WRsgumM2T6), besides if you Russian [UnderverseBattles](https://discord.gg/fdHSm9vkj7)
+
+---
+
+<h2 align="center">✨ My libraries ✨</h2>
+
+| |
+|-|
+| [Vectors](https://github.com/Tornado-Technology/Vectors)<br> Simple and lightweight library for vectors |
