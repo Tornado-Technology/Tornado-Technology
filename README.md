@@ -10,7 +10,7 @@ You can contact me on the [Juju server](https://discord.gg/8krYCqr) or [Evoleo](
 
 ---
 
-<h2 align="center">✨ My libraries ✨</h2>
+<h2 align="center">🐢 My libraries 🐢</h2>
 
 | |
 |-|
