@@ -10,18 +10,8 @@ You can contact me on the [Juju server](https://discord.gg/8krYCqr) or [Evoleo](
 
 ---
 
-<h2 align="center">🐢 My libraries [GameMaker Studio 2] 🐢</h2>
-
-| |
-|-|
-| [Vectors](https://github.com/Tornado-Technology/Vectors)<br> Simple and lightweight library for vectors |
-
----
-
 <h2 align="center">🐢 Interesting stuff 🐢</h2>
 
-| |
-|-|
-| [TCreeps](https://github.com/Tornado-Technology/TCreeps)<br> My current AI is used for game [Screeps](https://screeps.com/)|
-
----
+| | |
+|-|-|
+| [Vectors](https://github.com/Tornado-Technology/Vectors)<br> Simple and lightweight library Vectors<br> for GameMaker Studio 2 | [TCreeps](https://github.com/Tornado-Technology/TCreeps)<br> My current AI is used for game [Screeps](https://screeps.com/)|
