@@ -15,4 +15,4 @@ You can contact me on the [Juju server](https://discord.gg/8krYCqr) or [Evoleo](
 | | | 
 |-|-|
 | [Vectors](https://github.com/Tornado-Technology/Vectors)<br> Simple and lightweight library Vectors<br> for GameMaker Studio 2 | [TCreeps](https://github.com/Tornado-Technology/TCreeps)<br> My current AI is used for game [Screeps](https://screeps.com/)|
-| [Soroboom](https://github.com/Tornado-Technology/Soroboom)<br>Open source of my project that was ordered from me.<br>This must be a copy of the original application | Empty :)|
+| [Teta-RPG](https://github.com/Tornado-Technology/Teta-RPG)<br>The framework for GameMaker Studio 2.3+<br>allows you to quickly and easily create quests, novels, action and other games.<br>Also a framework for other addons | Empty :)|
