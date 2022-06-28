@@ -17,5 +17,6 @@ You can contact me on the:
 
 | | | 
 |-|-|
-| [Vectors](https://github.com/Tornado-Technology/Vectors)<br> Simple and lightweight library Vectors<br> for GameMaker Studio 2 | [TCreeps](https://github.com/Tornado-Technology/TCreeps)<br> My current AI is used for game [Screeps](https://screeps.com/)|
-| [Teta-RPG](https://github.com/Tornado-Technology/Teta-RPG)<br>The framework for GameMaker Studio 2.3+<br>allows you to quickly and easily create quests, novels, action and other games.<br>Also a framework for other addons | [TechHexed](https://github.com/Tornado-Technology/TechHexed)<br>Java plugin for [Mindustry](https://mindustrygame.github.io/) servers with the ability to team up and many utulity things|
+|[Vectors](https://github.com/Tornado-Technology/Vectors)<br>Simple and lightweight library Vectors<br> for GameMaker Studio 2|[TCreeps](https://github.com/Tornado-Technology/TCreeps)<br>My current AI is used for game [Screeps](https://screeps.com/)|
+|[Teta-RPG](https://github.com/Tornado-Technology/Teta-RPG)<br>The framework for GameMaker Studio 2.3+<br>allows you to quickly and easily create quests, novels, action and other games.<br>Also a framework for other addons|[TechHexed](https://github.com/Tornado-Technology/TechHexed)<br>Java plugin for [Mindustry](https://mindustrygame.github.io/) servers with the ability to team up and many utulity things|
+|[The Other Side](https://github.com/Tornado-Technology/The-Other-Side)<br>The Other Side code for #NoticeMe Game Jam|(JSGames)[https://github.com/Tornado-Technology/Games-JS]Various games (mostly classics) made in pure Js|
