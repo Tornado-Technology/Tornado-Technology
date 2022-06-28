@@ -6,8 +6,11 @@ You may know me from my [YouTube](https://www.youtube.com/channel/UCyycIj2oeDsGd
 
 I know and work with: C#, NodeJS, GameMaker Studio 2
 
-You can contact me on the [Juju server](https://discord.gg/8krYCqr) or [Evoleo](https://discord.gg/WRsgumM2T6), besides if you Russian [UnderverseBattles](https://discord.gg/fdHSm9vkj7)
-
+You can contact me on the: 
+- [GameMaker Kitchen](https://discord.gg/8krYCqr) 
+- [Evoleo's Hangout](https://discord.gg/WRsgumM2T6)
+- [UnderverseBattles[En] Offical](https://discord.gg/2Nuas5NKj8)
+- [UnderverseBattles[Ru] Offical](https://discord.gg/3GVTJWuPxa)
 ---
 
 <h2 align="center">🐢 Interesting stuff 🐢</h2>
