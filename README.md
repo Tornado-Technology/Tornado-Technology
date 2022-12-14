@@ -2,7 +2,7 @@
 
 ---
 
-You may know me from my [YouTube](https://www.youtube.com/channel/UCyycIj2oeDsGdrOhMpDI5VA) or the games I make. But I also create libraries and other open source stuff.
+You may know me from my [YouTube](https://www.youtube.com/@tornado_tech) or the games I make. But I also create libraries and other open source stuff.
 
 I know and work with: C#, NodeJS, GameMaker Studio 2
 
