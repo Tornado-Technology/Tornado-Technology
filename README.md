@@ -5,12 +5,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=black&style=for-the-badge)
+![GameMaker Studio 2](https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white)
 
 ## 💫 About Me
 You may know me from my YouTube or the games I make. But I also create libraries and other open source stuff.
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: center; ">
+<div style="align: ceneter; ">
     <img src="https://github-readme-stats.vercel.app/api?username=Tornado-Technology&theme=merko"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tornado-Technology&theme=merko&include_all_commits=false&count_private=false"/>
 </div>
